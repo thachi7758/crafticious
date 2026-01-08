@@ -1,2 +1,2 @@
-# craffticious
+# crafticious
 My crafticous website
